@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "display_name": "Padmapriya D",
+    "email": "padmapriya@gmail.com",
+    "camera": true,
+    "speaking_duration": 520,
+    "joined_first": true,
+    "mic_on": true,
+    "screen_share": false
+  },
+  {
+    "id": 2,
+    "display_name": "Rahul HR",
+    "email": "rahul@company.com",
+    "camera": true,
+    "speaking_duration": 120,
+    "joined_first": false,
+    "mic_on": true,
+    "screen_share": true
+  },
+  {
+    "id": 3,
+    "display_name": "Interviewer",
+    "email": "interviewer@company.com",
+    "camera": true,
+    "speaking_duration": 80,
+    "joined_first": false,
+    "mic_on": true,
+    "screen_share": false
+  }
+]

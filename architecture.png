@@ -1,0 +1,28 @@
+Meeting Platform
+(Zoom / Google Meet / Teams)
+                │
+                ▼
+Participant Data
+(JSON / Audio / Video / Transcript)
+                │
+                ▼
+Data Loader (app.py)
+                │
+                ▼
+AI Scoring Engine (scoring.py)
+ ├── Email Match
+ ├── Name Similarity
+ ├── Camera Status
+ ├── Microphone Status
+ ├── Speaking Duration
+ ├── Join Order
+ └── Screen Sharing
+                │
+                ▼
+Confidence Calculator
+                │
+                ▼
+Candidate Selector
+                │
+                ▼
+Streamlit Dashboard
