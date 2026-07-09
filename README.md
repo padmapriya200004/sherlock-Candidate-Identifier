@@ -1,5 +1,14 @@
 # Sherlock Candidate Identifier
-
+Sherlock-Candidate-Identifier/
+│
+├── app.py
+├── scoring.py
+├── participants.json
+├── architecture.md
+├── architecture.png
+├── evaluation.md
+├── README.md
+└── requirements.txt
 ## Overview
 
 This project is a prototype AI system that identifies the interview candidate during an online meeting using multiple weak signals instead of relying on a single rule.
